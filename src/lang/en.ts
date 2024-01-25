@@ -22,31 +22,20 @@ const en = {
     ],
     social_networks: [
       {
-        title: "Mail",
-        icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        title: "Behance",
+        icon: "SiBehance",
+        link: "https://www.behance.net/xuxoan",
       },
       {
-        title: "Linkedin",
-        icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        title: "Dribbble",
+        icon: "SiDribbble",
+        link: "https://dribbble.com/LtL27",
       },
       {
-        title: "Github",
-        icon: "SiGithub",
-        link: "https://github.com/howznguyen",
-      },
-      {
-        title: "Gitlab",
-        icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
-      },
-      {
-        title: "Facebook",
-        icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
-      },
-      
+        title: "Telegram",
+        icon: "SiTelegram",
+        link: "https://t.me/lelinhvt93",
+      },    
     ],
     develop_by: "Developed by ",
     build_with: "Built with ",
@@ -54,27 +43,10 @@ const en = {
   },
   home: {
     intro: {
-      header: "Hi, I'm Howz Nguyen",
+      header: "Hi, I'm LeLinh",
       description:
-        "I am currently a Fullstack Developer. This is a website I created with the desire to share my knowledge to everyone. Thank you to everyone who visited. ❤️",
+        "I am currently a graphic designer specializing in graphic design, UX/UI, and animation. Thank you to everyone who visited. ❤️",
       image: "/assets/images/hwz.ngn.jpg",
-      links: [
-        {
-          icon: "HiOutlineNewspaper",
-          title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
-        },
-        {
-          icon: "FaFacebook",
-          title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
-        },
-        {
-          icon: "FaGithub",
-          title: "howznguyen",
-          link: "https://github.com/howznguyen",
-        },
-      ],
     },
     featured_posts: "Featured Posts",
     read_more: "Read more",
